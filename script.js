@@ -4,4 +4,6 @@
 // }
 
 let math = require("./math");
+let fruits = require("./fruits");
 console.log(math.PI);
+console.log(fruits[0].fruit);
